@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ng8e5ot0dtpd"
-path="res://.godot/imported/square_foot.png-ce953c1a01bb17ab5b8bed5ec6701ba3.ctex"
+uid="uid://dk8jhk0tmf01g"
+path="res://.godot/imported/Spikes_tileset.png-2bcd3c1b8b29eeb73107b61c61c29a3f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://happy_boo/square_foot.png"
-dest_files=["res://.godot/imported/square_foot.png-ce953c1a01bb17ab5b8bed5ec6701ba3.ctex"]
+source_file="res://Spikes_tileset.png"
+dest_files=["res://.godot/imported/Spikes_tileset.png-2bcd3c1b8b29eeb73107b61c61c29a3f.ctex"]
 
 [params]
 
